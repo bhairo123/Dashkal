@@ -1,0 +1,31 @@
+@font-face {
+    font-family: roundo;
+    src: url('../font/Roundo-Regular.ttf');
+}
+@font-face {
+    font-family: all-round;
+    src: url('../font/FontsFree-Net-All-Round-Gothic-W01-Bold.ttf');
+}
+@font-face {
+    font-family: poppins-regular;
+    src: url('../font/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: poppins-medium;
+    src: url('../font/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: poppins-light;
+    src: url('../font/Poppins-Light.ttf');
+}
+@font-face {    font-family: poppins-semibold;
+    src: url('../font/Poppins-SemiBold.ttf');
+}
+@font-face {
+    font-family: rubik-light;
+    src: url('../font/Rubik-Light.ttf');
+}
+@font-face {
+    font-family: rubik-semibold;
+    src: url('../font/Rubik-SemiBold.ttf');
+}

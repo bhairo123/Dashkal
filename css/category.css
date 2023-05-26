@@ -1,0 +1,59 @@
+
+.card-category
+{
+    background-color: #d9dcfa;
+    height: 170px;
+    width: 250px;
+    transition: ease-in-out 1s;
+}
+.name-cat
+{
+    width: 0%;
+    transform: translateX(100px);
+    transition-duration: .3s;
+    z-index: 0;
+    opacity: 0;
+    transition: ease-in-out .5s;
+}
+.name-category
+{
+    border-top-right-radius: 0px!important;
+    border-bottom-right-radius: 0px!important;
+    background:linear-gradient(120deg,#A770EF,#CF8BF3 30%,#FDB99B);
+    color: #fff;
+}
+.name-category span
+{
+    transform: rotate(-90deg);
+    height: fit-content;
+    width: fit-content;
+    font-family: 'roundo';
+}
+.card-category:hover .name-cat
+{
+    transform: translateX(0);
+    z-index: 1;
+    opacity: 1;
+    width: 10%;
+    transition-duration: .3s;
+    transition: ease-in-out .5s;
+}
+.card-category:hover .view-category
+{
+    width: 90%;
+}
+
+.icon-category
+{
+    /* width: 50%; */
+    font-size: 80px;
+}
+.list-icon
+{
+    font-family: 'roundo';
+    letter-spacing: 3px;
+}
+.card-category:hover .list-icon
+{
+    padding: 1rem!important;
+}

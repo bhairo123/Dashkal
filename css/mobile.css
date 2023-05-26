@@ -1,0 +1,238 @@
+@media screen and (max-width: 320px)
+{
+
+    .mt-card
+    {
+        margin-top: 0rem;
+    }
+    .navbar-brand
+    {
+        position: static!important;
+    }
+    .navbar
+    {
+        padding: 0!important;
+    }
+    .sticky-top
+    {
+        z-index: 1!important;
+    }
+    .heading
+    {
+        font-size: 35px;
+        margin-bottom: 0px;
+    }
+    .arrow
+    {
+        width: 40px;
+        height: 40px;
+    }
+
+    .arrow > i
+    {
+        font-size: 18px;
+    }
+    .switch
+    {
+        width: 70px;
+        height: 40px;
+        right: 27px;
+    }
+    .switch > .arrow
+    {
+        width: 35px;
+        height: 35px;
+        margin-top: 2.5px;
+        margin-left: 2.5px;
+    }
+    .switch-white
+    {
+        width: 75px;
+        box-shadow: 0 3.5px 4px rgb(0 0 0 / 15%) !important;
+    }
+    .loader
+    {
+        width: 30px;
+        height: 30px;
+        margin-top: 2.5px;
+        margin-left: 2.5px;
+        box-shadow: 0 3.5px 4px rgb(0 0 0 / 15%) !important;
+    }
+    .dot-dash-circle
+    {
+        width: 50px;
+        left: 27px;
+    }
+    .mini-dot
+    {
+        width: 10px;
+        height: 10px;
+    }
+    .mini-dot-blue
+    {
+        width: 5px;
+        height: 5px;
+    }
+    .pill-black-text
+    {
+        width: 35px;
+        height: 15px;
+        border: 2pt solid #000;
+    }
+    .pill-black-text > .pill-black
+    {
+        width: 20px;
+        height: 3px;
+    }
+    .pill-round
+    {
+        width: 35px;
+        height: 15px;
+        left: 35px;
+    }
+    .pill-black
+    {
+        width: 20px;
+        height: 3px;
+    }
+    .text-design
+    {
+        margin-left: 15px;
+        margin-bottom: 0px;
+    }
+    .circle-white
+    {
+        width: 10px;
+        height: 10px;
+        right: 51px;
+        margin-top: 1px!important;
+    }
+    .circle-blue
+    {
+        width: 5px;
+        height: 5px;
+    }
+    .dot-dash
+    {
+        width: 50px;
+        right: 4px;
+        top: 32px;
+        z-index: -1;
+    }
+    .circle-white-2
+    {
+        width: 10px;
+        height: 10px;
+        top: 85px;
+        right: 0px;
+    }
+    .circle-green
+    {
+        width: 5px;
+        height: 5px;
+        right: 71.5px;
+        margin-top: 3px;
+    }
+    .triangle
+    {
+        font-size: 10px;
+        top: 170px;
+        left: 80px;
+    }
+    .triangle-blue
+    {
+        top: 175px;
+        left: 83px;
+        font-size: 5px;
+    }
+    .circle-gradient
+    {
+        width: 40px;
+        height: 40px;
+        top: 157px;
+        left: 100px;
+    }
+    .circle-gradient-blue
+    {
+        width: 40px;
+        height: 40px;
+        top: 157px;
+        left: 120px;
+    }
+    .pill-blur
+    {
+        width: 40px;
+        height: 25px;
+        top: 164px;
+        left: 109px;
+    }
+    .pill-x
+    {
+        width: 20px;
+        height: 20px;
+        font-size: 14px;
+    }
+    .heading
+    {
+        top: 153px;
+        left: 159px;
+    }
+    .text-heading
+    {
+        width: 300px;
+        font-size: 14px;
+    }
+    .text-content
+    {
+        margin-top: 4rem;
+        background: transparent!important;
+    }
+    .btn-start
+    {
+        font-size: 9px;
+    }
+    .wrapper-new
+    {
+        width: 287px;
+    }
+    .post-wide {
+        width: 165px;
+        height: 230px;
+        margin-top: 127px;
+        margin-left: 77px;
+    }
+    .img-wide{
+        width: 100%;
+    }
+    .instagram
+    {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        margin-top: 108px;
+        margin-left: 180px;
+    }
+    .facebook
+    {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+        margin-top: 250px;
+        margin-left: 60px;
+    }
+    .palette
+    {
+        height: 40px;
+        margin-top: 369px;
+        margin-left: 42px;
+
+    }
+    .color {
+        width: 25px;
+        height: 25px;
+    }
+    .title-new
+    {
+        font-size: 38pt;
+    }
+}
